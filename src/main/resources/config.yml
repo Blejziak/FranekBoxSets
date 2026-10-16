@@ -1,0 +1,81 @@
+# Konfiguracja FranekBoxSets
+# Plugin made by franekk - https://github.com/Blejziak
+
+max-level: 14
+
+enchants:
+  enchant-min: 1
+  enchant-max: 10
+
+sword:
+  fire-aspect-from-level: 10
+  fire-aspect-min: 1
+  fire-aspect-max: 2
+
+pieces:
+  helmet: "ʜᴇʟᴍ"
+  chestplate: "ɴᴀᴘɪᴇʀsɴɪᴋ"
+  leggings: "sᴘᴏᴅɴɪᴇ"
+  boots: "ʙᴜᴛʏ"
+  sword: "ᴍɪᴇᴄᴢ"
+  pickaxe: "ᴋɪʟᴏғ"
+  shears: "ɴᴏᴢʏᴄᴇ"
+  elytra: "ᴇʟʏᴛʀᴀ"
+
+levels:
+  1:
+    theme: "ᴡɪʟᴋᴀ"
+    hex: "#AAAAAA"
+    material-tier: "LEATHER"
+  2:
+    theme: "ʟɪsᴀ"
+    hex: "#FF7F27"
+    material-tier: "LEATHER"
+  3:
+    theme: "ɴɪᴇᴅᴢᴡɪᴇᴅᴢɪᴀ"
+    hex: "#8B5A2B"
+    material-tier: "LEATHER"
+  4:
+    theme: "ᴛʏɢʀʏsᴀ"
+    hex: "#FFA500"
+    material-tier: "LEATHER"
+  5:
+    theme: "ʀᴇᴋɪɴᴀ"
+    hex: "#1E90FF"
+    material-tier: "IRON"
+  6:
+    theme: "sᴍᴏᴋᴀ"
+    hex: "#2E8B57"
+    material-tier: "IRON"
+  7:
+    theme: "ᴊᴇᴅɪ"
+    hex: "#00BFFF"
+    material-tier: "IRON"
+  8:
+    theme: "sɪᴛʜᴀ"
+    hex: "#FF0000"
+    material-tier: "IRON"
+  9:
+    theme: "ᴍᴀɴᴅᴀʟᴏʀɪᴀɴɪɴᴀ"
+    hex: "#C0C0C0"
+    material-tier: "DIAMOND"
+  10:
+    theme: "ᴡᴏᴏᴋɪᴇᴇɢᴏ"
+    hex: "#A0522D"
+    material-tier: "DIAMOND"
+  11:
+    theme: "sᴢᴛᴜʀᴍᴏᴡᴄᴀ"
+    hex: "#E0E0E0"
+    material-tier: "DIAMOND"
+  12:
+    theme: "ɪᴍᴘᴇʀɪᴜᴍ"
+    hex: "#2C2C2C"
+    material-tier: "DIAMOND"
+  13:
+    theme: "ɴᴀᴊᴡʏᴢsᴢᴇɢᴏ ᴘᴏʀᴢᴀᴅᴋᴜ"
+    hex: "#8B0000"
+    material-tier: "NETHERITE"
+  14:
+    theme: "ʙɪᴀʟᴇɢᴏ"
+    hex: "#FFFFFF"
+    material-tier: "NETHERITE"

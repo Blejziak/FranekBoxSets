@@ -1,0 +1,23 @@
+name: FranekBoxSets
+version: '1.0'
+main: dev.franek.boxsets.FranekBoxSets
+api-version: '1.20'
+author: franekk
+website: https://github.com/Blejziak
+description: Plugin made by franekk - https://github.com/Blejziak
+
+commands:
+  setgive:
+    description: Daje graczowi pelny set lub pojedynczy przedmiot z danego poziomu.
+    usage: "/setgive <gracz> <poziom> [przedmiot]"
+    permission: franek.boxsets.give
+  setreload:
+    description: Przeladowuje config.yml wtyczki.
+    usage: "/setreload"
+    permission: franek.boxsets.reload
+
+permissions:
+  franek.boxsets.give:
+    default: op
+  franek.boxsets.reload:
+    default: op
