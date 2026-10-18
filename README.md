@@ -4,10 +4,6 @@
 
 Plugin na sety pod BoxPvP (od poziomu 1 do 14). Daje gotowa zbroje, miecz, kilof, nozyce i elytre z kolorami HEX i wygladem w lore. Enchanty skaluja sie same wraz z poziomem setu.
 
-## Podglad w grze
-
-![showcase](assets/showcase.png)
-
 ## Komendy
 
 | Komenda | Co robi |
